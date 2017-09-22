@@ -241,6 +241,51 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 212577017338445936, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 212136189536416988, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 212887908968981312, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 212136334304558622, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 212842323140789948, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 212706593235141276, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 212612852979347900, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 212972657185460502, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 212043851653080896, guid: c927bd4415c0c6941bb9a293be6304eb,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c927bd4415c0c6941bb9a293be6304eb, type: 2}
   m_IsPrefabParent: 0
@@ -454,6 +499,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4168928469179286, guid: b0c23d315ec8e0341b940fa61a76f1d2, type: 2}
       propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212145829920320906, guid: b0c23d315ec8e0341b940fa61a76f1d2,
+        type: 2}
+      propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
